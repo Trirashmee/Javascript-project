@@ -1,0 +1,19 @@
+
+
+.cont{
+    align-items: center;
+    background-color:white;
+    padding: 20px;
+    color:black;
+    box-shadow:2px 2px 2px 2px rgb(166, 165, 165);
+}
+
+   button{
+    border: solid 1px black;
+    height: 30px;
+    width: 150px;
+   }
+
+   .cont:hover{
+    box-shadow: 10px 10px 10px 10px rgb(223, 220, 220);
+   }
